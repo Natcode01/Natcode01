@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active directory Home lab](https://github.com/natcode01/LABURL)
-  - [LS!](https://github.com/natcode01/nothingtoseehere) 
+  - [LS!](https://github.com/natcode01) 
 
 
 <h2> 🤳 Connect with me:</h2>

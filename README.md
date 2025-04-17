@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active directory Home lab](https://github.com/natcode01/LABURL)
+  - [Active directory Home lab](https://github.com/natcode01)
   - [LS!](https://github.com/natcode01) 
 
 

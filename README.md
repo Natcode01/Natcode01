@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active directory Home lab](https://github.com/natcode01)
+  - [Active directory Home lab](https://github.com/Natcode01/ActiveDirectoryLab/tree/main)
   - [LS!](https://github.com/natcode01) 
 
 

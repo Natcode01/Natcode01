@@ -12,7 +12,7 @@
 [<img align="left" alt="natachi-ike-obasi-b7a68b169 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="natgram_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/just_ktb
+[twitter]: https://x.com/just_ktb
 [instagram]: https://www.instagram.com/natgram_/
 [linkedin]: https://www.linkedin.com/in/natachi-ike-obasi-b7a68b1b9/ 
 
